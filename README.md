@@ -1,13 +1,22 @@
 # Chat
 
+<!-- hanzo-badges -->
+<p align="left">
+  <a href="https://platform.hanzo.ai/new?repo=https%3A%2F%2Fgithub.com%2Fhanzo-apps%2Fdesktop-chat&template=desktop-chat"><img src="https://gallery.hanzo.ai/deploy.svg" alt="Deploy to Hanzo" height="32" /></a>
+  <a href="https://hanzo.ai/chat?template=desktop-chat"><img src="https://gallery.hanzo.ai/badges/edit-in-hanzo.svg" alt="Edit in Hanzo.ai" height="32" /></a>
+  <a href="https://gallery.hanzo.ai/templates/desktop-chat"><img src="https://gallery.hanzo.ai/badges/live-preview.svg" alt="Live Preview" height="32" /></a>
+  <a href="https://gallery.hanzo.ai/llms/desktop-chat/LLM.md"><img src="https://gallery.hanzo.ai/badges/llm-md.svg" alt="LLM.md Playbook" height="32" /></a>
+</p>
+<!-- /hanzo-badges -->
+
 Desktop AI client — streaming SSE to any OpenAI-compatible gateway, threads and API key kept out of web storage.
 
 A **Hanzo desktop template**: one codebase, three installers (macOS, Windows,
 Linux) and a web build. Fork it, `npm i`, ship.
 
 - Live web preview: <https://desktop-chat.hanzo.app>
-- Installers: <https://github.com/hanzo-templates/desktop-chat/releases/latest>
-- Source: <https://github.com/hanzo-templates/desktop-chat>
+- Installers: <https://github.com/hanzo-apps/desktop-chat/releases/latest>
+- Source: <https://github.com/hanzo-apps/desktop-chat>
 
 ![desktop-chat](./public/preview.png)
 
